@@ -3,6 +3,9 @@
 [[https://github.com/donjuanplatinum/AzurLane-Live2D][https://img.shields.io/github/repo-size/donjuanplatinum/AzurLane-Live2D.svg]]
 [[https://github.com/donjuanplatinum/AzurLane-Live2D][https://img.shields.io/github/stars/donjuanplatinum/AzurLane-Live2D.svg]]
 [[https://github.com/donjuanplatinum/AzurLane-Live2D][https://img.shields.io/github/commit-activity/t/donjuanplatinum/AzurLane-Live2D.svg]]
-
+* 使用方法
+#+begin_src shell
+  git clone https://github.com/donjuanplatinum/Azurlane-Live2D
+#+end_src
 * Shortcut
 [[az][./res/az3.png]]
