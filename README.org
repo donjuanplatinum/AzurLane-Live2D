@@ -1,0 +1,8 @@
+* AzurLane-Live2D 碧蓝航线Live2D模型
+[[https://github.com/donjuanplatinum/AzurLane-Live2D/fork][https://img.shields.io/github/forks/donjuanplatinum/AzurLane-Live2D.svg]]
+[[https://github.com/donjuanplatinum/AzurLane-Live2D][https://img.shields.io/github/repo-size/donjuanplatinum/AzurLane-Live2D.svg]]
+[[https://github.com/donjuanplatinum/AzurLane-Live2D][https://img.shields.io/github/stars/donjuanplatinum/AzurLane-Live2D.svg]]
+[[https://github.com/donjuanplatinum/AzurLane-Live2D][https://img.shields.io/github/commit-activity/t/donjuanplatinum/AzurLane-Live2D.svg]]
+
+* Shortcut
+[[az][./res/az3.png]]
